@@ -1,11 +1,10 @@
 # Basic Calculator 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Simple Calculator</title>
 
-
-
-    
-    
-
-    
+    <style>
         body {
             background-color: #f0f0f0;
             font-family: Arial, sans-serif;
@@ -105,3 +104,4 @@
 
 </body>
 </html>
+
