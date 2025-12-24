@@ -1,4 +1,4 @@
-# Basic Calculator to perform atretemetic operations
+# Basic Calculator 
 <!DOCTYPE html>
 <html lang="en">
 <head>
