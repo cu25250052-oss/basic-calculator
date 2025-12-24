@@ -1,8 +1,10 @@
-
- 
- <meta charset="UTF-8">
+# Basic Calculator to perform atretemetic operations
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
     <title>Simple Calculator</title>
-    
+
     <style>
         body {
             background-color: #f0f0f0;
@@ -103,5 +105,3 @@
 
 </body>
 </html>
-# basic-calculator
-A SIMPLE CALCULATOR USING HTML CSS AND JAVA SCRIPT FOR BASIC ARETHEMATIC OPERATIONS
