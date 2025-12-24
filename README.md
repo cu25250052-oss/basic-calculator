@@ -3,7 +3,7 @@
 
 
     
-    <title>Simple Calculator</title>
+    
 
     <style>
         body {
