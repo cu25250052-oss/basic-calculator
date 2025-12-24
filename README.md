@@ -1,6 +1,8 @@
 
-
-
+ 
+ <meta charset="UTF-8">
+    <title>Simple Calculator</title>
+    
     <style>
         body {
             background-color: #f0f0f0;
